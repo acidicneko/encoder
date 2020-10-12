@@ -12,7 +12,6 @@ marko init
 When the directory is initialised a ".marko_init" file is generated in given directory, containing current directory name and some other information.
 Then you have to commit a file(usually name of your exam) as -
 ```
- 
 marko commit Finals
 ```
 It will generate a file called "Finals" in the directory.
