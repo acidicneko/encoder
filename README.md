@@ -6,7 +6,9 @@ And yeah it is dumb as it sounds!😁
 # Usage
 Marko works something similar to how git works.
 First you have to initialise an empty directory with command -
-> marko init
+```
+marko init
+```
 When the directory is initialised a ".marko_init" file is generated in given directory, containing current directory name and some other information.
 Then you have to commit a file(usually name of your exam) as -
 
