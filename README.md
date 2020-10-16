@@ -1,6 +1,9 @@
 # marko
 A dumb marks organiser for your academics!
 
+# Marko in action
+![Settings Window](https://raw.github.com/ayush7788/marko/main/marko_in_action.png)
+
 Ever forgot your marks in tests you got? If yes then "Marks Organiser" is here to help!
 And yeah it is dumb as it sounds!😁
 # Usage
