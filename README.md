@@ -29,6 +29,11 @@ marko push Maths 80
 ```
 It will register your marks in "Maths" as "80".
 Wow how dumb!! Gimme an award for this!!
+
+If you ever needed some help -
+```
+marko help
+```
 # Installation
 Clone this repo - 
 ```
