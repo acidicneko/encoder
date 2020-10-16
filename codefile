@@ -1,0 +1,2 @@
+<build>g++ -o marko main.cpp;echo Done!;<build>
+<clean>rm test;<clean>
