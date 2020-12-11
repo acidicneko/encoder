@@ -49,8 +49,11 @@ And that's it marko is ready to be used!
 # To-do list
 - [x] Publish source code to GitHub
 - [x] Do first beta release
-- [ ] Make subject deleting system to delete data from record
-- [ ] Make variables deleting system within a file
-- [ ] Do first stable release
+- [x] ~~Make subject deleting system to delete data from record~~
+- [x] ~~Make variables deleting system within a file~~
+- [x] ~~Do first stable release~~
+- [ ] Remake Marko
+- [ ] Publish source code to GitHub
+- [ ] Do second beta release
 - [ ] Play Minecraft
 
