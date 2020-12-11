@@ -52,7 +52,8 @@ And that's it marko is ready to be used!
 - [x] ~~Make subject deleting system to delete data from record~~
 - [x] ~~Make variables deleting system within a file~~
 - [x] ~~Do first stable release~~
-- [ ] Remake Marko
+- [ ] Remake Marko with better code and speed
+- [ ] Introduce new system for data storage
 - [ ] Publish source code to GitHub
 - [ ] Do second beta release
 - [ ] Play Minecraft
