@@ -1,3 +1,8 @@
+[![Made in Emacs](https://img.shields.io/badge/Made%20in-emacs-blue.svg)](https://www.gnu.org/software/emacs/)
+![Generic badge](https://img.shields.io/badge/Version-0.9%20beta-lime.svg)
+![Generic badge](https://img.shields.io/badge/Maintained-yes-yellow.svg)
+
+
 # marko
 A dumb marks organiser for your academics!
 
