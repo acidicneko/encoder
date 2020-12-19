@@ -31,12 +31,12 @@ enc commit contacts
 It will generate a file called "contacts" in the directory.
 Then to start registering your marks in this file do -
 ```
-marko set contacts
+enc set contacts
 ```
 It will set default storage file to "contacts"
 Then to register data -
 ```
-marko push Abhishek +911009xxx89
+enc push Abhishek +911009xxx89
 ```
 It will register key "Abhishek" with value "+911009xxx89".
 
