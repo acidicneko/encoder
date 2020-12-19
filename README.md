@@ -7,7 +7,7 @@
 A dumb secret keeper for you! Ho! Ho! Ho!
 
 # Marko in action
-![Settings Window](https://raw.github.com/ayush7788/marko/main/marko_in_action.png)
+![Settings Window](https://raw.githubusercontent.com/ayush7788/encoder/main/2020-12-19_04_59.png)
 
 Ever forgot your marks in tests you got? Ever realised to note some data given in _key_ - _value_ format? If yes ENCODER is here for help!
 And yeah it is dumb as it sounds!
