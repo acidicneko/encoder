@@ -6,6 +6,11 @@
 # Encoder
 A dumb secret keeper for you! Ho! Ho! Ho!
 
+## Quick installation
+```
+curl https://github.com/ayush7788/encoder/install.sh | sh
+```
+
 # Encoder in action
 ![Settings Window](https://raw.githubusercontent.com/ayush7788/encoder/main/2020-12-19_04_59.png)
 
