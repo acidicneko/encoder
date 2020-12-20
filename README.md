@@ -62,6 +62,6 @@ And that's it marko is ready to be used!
 - [x] Remake Marko with better code and speed
 - [x] Introduce new system for data storage
 - [x] Publish source code to GitHub
-- [x] Do second beta release
+- [ ] Do second beta release
 - [ ] Play Minecraft
 
