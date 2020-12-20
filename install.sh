@@ -1,7 +1,13 @@
-#installer script for marko
-echo run this script as root if not \in root curretly
-echo compiling...
-g++ -o marko main.cpp
+#cloning repo
+git clone https://github.com/ayush7788/encoder.git
+
+#installer script for Encoder
+echo compiling library...
+g++ -o lbry encoder/lib.cpp
+echo compiling core...
+g++ -o core encoder/main.cpp
+echo linking objects...
+g++ -o enc lbry core
 echo installing...
-mv marko /bin/marko
-echo marko is ready to be used!
+mv enc /usr/bin/enc
+echo Encoder has been installed.
