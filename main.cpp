@@ -176,7 +176,7 @@ int bootstrap(){
     return 1;
   }
   else if(get_value(".enc.dat", "dir") != get_current_dir_name()){
-      error("please initialise the directory first!!\nprovided .marko.dat isn't real!!");
+      error("please initialise the directory first!!\nprovided .enc.dat isn't real!!");
       return 1;
   }
 
