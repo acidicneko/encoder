@@ -8,7 +8,7 @@ A dumb secret keeper for you! Ho! Ho! Ho!
 
 ## Quick installation
 ```
-curl https://github.com/ayush7788/encoder/install.sh | sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ayush7788/encoder/main/install.sh)"
 ```
 
 # Encoder in action
