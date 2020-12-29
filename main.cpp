@@ -1,4 +1,4 @@
-/* Encoder - A C++ software for easy mom key-value type data storage
+/* Encoder - A C++ software for easy key-value type data storage
  * Copyright (C) 2020 Ayush Yadav
  *
  * Encoder is free software: you can redistribute it and/or modify
