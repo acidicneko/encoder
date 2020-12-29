@@ -1,3 +1,20 @@
+/* Encoder - A C++ software for easy mom key-value type data storage
+ * Copyright (C) 2020 Ayush Yadav
+ *
+ * Encoder is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * Encoder is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Encoder.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
 #include <iostream>
 #include <fstream>
 #include <unistd.h>
