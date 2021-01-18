@@ -42,6 +42,10 @@ enc push Abhishek +911009xxx89
 ```
 It will register key "Abhishek" with value "+911009xxx89".
 
+Delete a key(eg. Abhishek) from default file - 
+```
+enc pull Abhishek
+```
 If you ever needed some help -
 ```
 enc help
