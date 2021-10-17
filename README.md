@@ -1,6 +1,6 @@
 [![Made in Emacs](https://img.shields.io/badge/Made%20in-emacs-blue.svg)](https://www.gnu.org/software/emacs/)
 ![Generic badge](https://img.shields.io/badge/Version-1.0.2%20beta-lime.svg)
-![Generic badge](https://img.shields.io/badge/Maintained-yes-yellow.svg)
+![Generic badge](https://img.shields.io/badge/Maintained-no-red.svg)
 
 
 # Encoder
